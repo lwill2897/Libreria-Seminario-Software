@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "ProyectoSeminarioSoftware"
+  "defaultProject": "ProyectoSeminarioSoftware",
+  "cli": {
+    "analytics": "4fc3c2f9-20d1-4e30-a295-96fc9b5df705"
+  }
 }
