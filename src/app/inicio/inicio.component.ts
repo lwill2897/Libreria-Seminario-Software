@@ -13,3 +13,13 @@ export class InicioComponent implements OnInit {
   }
 
 }
+
+/*ListaLibros=[
+  {categoria:"terror", path:"../../assets/css/images/001.jpg"},
+  {categoria:"terror", path:"../../assets/css/images/001.jpg"},
+  {categoria:"terror", path:"../../assets/css/images/001.jpg"},
+  {categoria:"terror", path:"../../assets/css/images/001.jpg"},
+  {categoria:"terror", path:"../../assets/css/images/001.jpg"},
+  {categoria:"terror", path:"../../assets/css/images/001.jpg"},
+  {categoria:"terror", path:"../../assets/css/images/001.jpg"}
+];*/
